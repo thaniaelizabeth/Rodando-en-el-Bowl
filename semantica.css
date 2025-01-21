@@ -1,0 +1,42 @@
+*{
+    background-color: #16404D;
+}
+
+.jersey-15-regular {
+    font-family: "Jersey 15", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #A6CDC6;
+  }
+  .mako-regular {
+    font-family: "Mako", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  h1{
+    color: #A6CDC6;
+    font-family: "Jersey 15", serif;
+}
+
+h2{
+    color: #DDA853;
+    font-family: "Jersey 15", serif;
+}
+
+span{
+    color:#FBF5DD;
+    font-family: "Mako", serif ;
+    
+}
+
+.lista_parrafos{
+    color: #FBF5DD;
+    font-family: "Mako", serif ;
+}
+
+footer{
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
